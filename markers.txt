@@ -1,0 +1,74 @@
+img/20686-lib-9d-progressive-qf100.jpeg
+progressive
+256x256
+YCbCr
+Huffman table 0 DC
+Huffman table 1 DC
+
+Scan 1 of 10
+Color components: Y, Cb, Cr
+Spectral selection: 0-0 (DC)
+Successive approximation: 0-1 (first scan)
+MCU count: 256
+Huffman table 0 AC
+
+Scan 2 of 10
+Color components: Y
+Spectral selection: 1-5 (AC)
+Successive approximation: 0-2 (first scan)
+MCU count: 1024
+Huffman table 1 AC
+
+Scan 3 of 10
+Color components: Cr
+Spectral selection: 1-63 (AC)
+Successive approximation: 0-1 (first scan)
+MCU count: 256
+Huffman table 1 AC
+
+Scan 4 of 10
+Color components: Cb
+Spectral selection: 1-63 (AC)
+Successive approximation: 0-1 (first scan)
+MCU count: 256
+Huffman table 0 AC
+
+Scan 5 of 10
+Color components: Y
+Spectral selection: 6-63 (AC)
+Successive approximation: 0-2 (first scan)
+MCU count: 1024
+Huffman table 0 AC
+
+Scan 6 of 10
+Color components: Y
+Spectral selection: 1-63 (AC)
+Successive approximation: 2-1 (refining scan)
+MCU count: 1024
+
+Scan 7 of 10
+Color components: Y, Cb, Cr
+Spectral selection: 0-0 (DC)
+Successive approximation: 1-0 (refining scan)
+MCU count: 256
+Huffman table 1 AC
+
+Scan 8 of 10
+Color components: Cr
+Spectral selection: 1-63 (AC)
+Successive approximation: 1-0 (refining scan)
+MCU count: 256
+Huffman table 1 AC
+
+Scan 9 of 10
+Color components: Cb
+Spectral selection: 1-63 (AC)
+Successive approximation: 1-0 (refining scan)
+MCU count: 256
+Huffman table 0 AC
+
+Scan 10 of 10
+Color components: Y
+Spectral selection: 1-63 (AC)
+Successive approximation: 1-0 (refining scan)
+MCU count: 1024
