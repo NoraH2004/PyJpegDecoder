@@ -5,3 +5,4 @@ __pycache__/
 tests/
 literature/
 !progressive scan example/*
+/venv
